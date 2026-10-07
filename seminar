@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>【オンラインセミナー】遺言の重要性と遺言最新事情</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --bg-color: #f8f9fa;
+            --text-color: #333;
+            --border-color: #ddd;
+        }
+
+        body {
+            font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #ffffff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.05);
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px 20px;
+            border-bottom: 2px solid var(--primary-color);
+        }
+
+        .sub-title {
+            display: inline-block;
+            background-color: var(--primary-color);
+            color: #fff;
+            padding: 4px 12px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            color: var(--primary-color);
+            margin: 10px 0 20px;
+            line-height: 1.4;
+        }
+
+        .meta-info {
+            font-size: 1rem;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        .cta-btn-wrapper {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: #ffffff;
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-decoration: none;
+            padding: 15px 40px;
+            border-radius: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .cta-btn:hover {
+            background-color: #c0392b;
+            transform: translateY(-2px);
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 1.3rem;
+            color: var(--primary-color);
+            border-left: 5px solid var(--primary-color);
+            padding-left: 10px;
+            margin-bottom: 20px;
+        }
+
+        /* テーブルスタイル */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid var(--border-color);
+            padding: 12px 15px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f1f3f5;
+            width: 25%;
+            white-space: nowrap;
+        }
+
+        /* 講師紹介 */
+        .profile-card {
+            background-color: #f8f9fa;
+            border: 1px solid var(--border-color);
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        .profile-name {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .profile-title {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            padding-left: 20px;
+            margin: 0;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.85rem;
+            color: #777;
+            border-top: 1px solid var(--border-color);
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 1.4rem; }
+            .cta-btn { font-size: 1rem; width: 80%; padding: 12px 0; }
+            th, td { display: block; width: 100%; box-sizing: border-box; }
+            th { background-color: #e9ecef; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="sub-title">オンライン相続診断士会 定例セミナー</div>
+        <h1>遺言の重要性と遺言最新事情</h1>
+        <div class="meta-info">
+            開催日：2026年11月4日（水）
+        </div>
+        <div class="cta-btn-wrapper">
+            <a href="https://x.gd/e5hqa" class="cta-btn" target="_blank" rel="noopener">お申し込みはこちら</a>
+        </div>
+    </header>
+
+    <main>
+        <!-- 開催概要 -->
+        <section>
+            <h2>開催概要</h2>
+            <table>
+                <tr>
+                    <th>日時</th>
+                    <td>2026年11月4日（水）※時間帯は前回と同様です</td>
+                </tr>
+                <tr>
+                    <th>開催方法</th>
+                    <td>オンライン開催（Zoom予定）</td>
+                </tr>
+                <tr>
+                    <th>参加費</th>
+                    <td>無料（事前申込制）</td>
+                </tr>
+                <tr>
+                    <th>対象者</th>
+                    <td>相続診断士、相続業務に関心のある士業・専門家・一般の皆様</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- 講師紹介 -->
+        <section>
+            <h2>講師紹介</h2>
+            <div class="profile-card">
+                <div class="profile-name">山本 百合香（やまもと ゆりか）氏</div>
+                <div class="profile-title">ななくり行政書士事務所 代表行政書士 / 上級相続診断士</div>
+                <p><strong>【主な業務分野】</strong></p>
+                <ul>
+                    <li>公正証書作成（遺言・任意後見・死後事務委任）</li>
+                    <li>自筆証書遺言作成支援</li>
+                    <li>遺産整理</li>
+                    <li>許認可業務（建設業・宅建業・医療法人）</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- 講演内容 -->
+        <section>
+            <h2>本日の内容・プログラム</h2>
+            <ul>
+                <li>
+                    <strong>1. 自己紹介</strong>
+                </li>
+                <li>
+                    <strong>2. 遺言とは（遺言の重要性）</strong>
+                    <ul>
+                        <li>遺言と遺書の違いい・法的効力について</li>
+                        <li>遺言がない場合のリスク（遺産分割協議の課題）</li>
+                        <li>遺言作成の現状・データと作らない理由の誤解</li>
+                        <li>遺言があった方が良いケース（制限行為能力者、お一人様、子供がいないご夫婦、離婚歴がある方等）</li>
+                        <li>遺言の種類（自筆証書・公正証書・秘密証書）と比較</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>3. デジタル公正証書の概要</strong>
+                    <ul>
+                        <li>制度改正の背景と目的（対面・書面からデジタル手続へ）</li>
+                        <li>ウェブ会議や電子署名を利用したリモート手続の流れ</li>
+                        <li>デジタル化による3つの提供価値（利便性・迅速化・安全性）</li>
+                    </ul>
+                </li>
+                <li>
+                    <strong>4. 民法（遺言関係）等の改正案要綱の概要</strong>
+                    <ul>
+                        <li>民法改正のスケジュールと3つの柱</li>
+                        <li>新設される「保管証書遺言」（電磁的記録・非対面手続）</li>
+                        <li>自筆証書・秘密証書の方式緩和（押印要件の廃止等）</li>
+                        <li>特別方式遺言での録音・録画やウェブ会議活用</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <!-- CTAエリア -->
+        <div class="cta-btn-wrapper">
+            <a href="https://x.gd/e5hqa" class="cta-btn" target="_blank" rel="noopener">お申し込みはこちら</a>
+        </div>
+    </main>
+
+    <footer>
+        &copy; 2026 オンライン相続診断士会 All Rights Reserved.
+    </footer>
+</div>
+
+</body>
+</html>
